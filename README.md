@@ -17,5 +17,6 @@ Instructions for installation.
 3. Creation Micropython project is also explained in the docs.
 
 
---Acknowlwdgement---
+--Acknowlwdgement--
+
 This project was made possible by help from NPTEL IIT Madras.
