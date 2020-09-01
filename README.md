@@ -5,7 +5,7 @@ Helps to understand the Basic Control Experiments using LegoEv3 robots, such as,
 2.System Identification
 3.Proportional Integrator Controller.
 
-This is inspired by previous implementation, however NXT models of LEGO are replaced by LEGO EV3 models. SO these set of codes 
+This is inspired by previous implementation, however NXT models of LEGO are replaced by LEGO EV3 models. So these set of codes 
 are mainly designed for NPTEL MOOC Control Engineering Course. And the codes are written in Python and micropython. Python for plotting 
 and visualization, Micropython is the one which runs on the Lego EV3. 
 
